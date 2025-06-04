@@ -13,7 +13,7 @@ A lightweight WPF application that procedurally generates 3D terrain using the D
 
 ## 🖼️ Preview
 
-*(Add a screenshot or GIF here if available)*
+![3D Generated Terrain](./image/terraingenerator.png) 
 
 ## 🚀 Getting Started
 
