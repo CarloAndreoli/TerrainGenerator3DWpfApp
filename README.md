@@ -44,7 +44,3 @@ The terrain is generated as a heightmap using the Diamond-Square algorithm, then
 
 My original article on codeproject:  
 [Terrain Generator and 3D WPF Representation on CodeProject](https://www.codeproject.com/Articles/1194994/Terrain-Generator-and-3D-WPF-Representation)
-
----
-
-Made with ❤️ for learning and experimentation.
